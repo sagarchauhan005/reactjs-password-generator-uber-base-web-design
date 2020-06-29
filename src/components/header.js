@@ -17,23 +17,11 @@ export default () => {
                 style: () => {
                     return {
                         border: 'none',
+                        marginTop : '30px !important',
                     };
                 }
             }
         }}>
-            <StyledNavigationList $align={ALIGN.left}>
-                <StyledNavigationItem>
-                    <Avatar
-                        name={`Sagar`}
-                        size='scale1200'
-                        src="https://not-a-real-image.png"
-                        key='scale1200'
-                    />
-                </StyledNavigationItem>
-                <StyledNavigationItem>
-                    <H3>Sagar Chauhan</H3>
-                </StyledNavigationItem>
-            </StyledNavigationList>
             <StyledNavigationList $align={ALIGN.center} />
             <StyledNavigationList $align={ALIGN.right}>
                 <StyledNavigationItem>
