@@ -25,23 +25,23 @@ export default () => {
             <StyledNavigationList $align={ALIGN.center} />
             <StyledNavigationList $align={ALIGN.right}>
                 <StyledNavigationItem>
-                    <StyledLink href="#basic-link1">
+                    <StyledLink href="https://drive.google.com/file/d/1qY2drEeQg6ma-gsyaEz-WfmJJqtRQHgb/view?usp=sharing">
                         Resume
                     </StyledLink>
                 </StyledNavigationItem>
                 <StyledNavigationItem>
-                    <StyledLink href="#basic-link2">
+                    <StyledLink href="https://drive.google.com/file/d/1BcV8xQyhcSGNOvxqdzlizMQEQbK6fjnK/view?usp=sharing">
+                        Cover Letter
+                    </StyledLink>
+                </StyledNavigationItem>
+                <StyledNavigationItem>
+                    <StyledLink href="https://medium.com/@coolsagar005">
                         Blog
                     </StyledLink>
                 </StyledNavigationItem>
                 <StyledNavigationItem>
-                    <StyledLink href="#basic-link2">
+                    <StyledLink href="https://github.com/sagarchauhan005/">
                         Github
-                    </StyledLink>
-                </StyledNavigationItem>
-                <StyledNavigationItem>
-                    <StyledLink href="#basic-link2">
-                        Contact
                     </StyledLink>
                 </StyledNavigationItem>
             </StyledNavigationList>

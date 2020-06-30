@@ -1,6 +1,8 @@
 import * as React from 'react';
 import {FlexGrid, FlexGridItem} from 'baseui/flex-grid';
 import {H1, H6, Label3, Label4, Paragraph3} from "baseui/typography";
+import {Button, SHAPE} from "baseui/button";
+import {ArrowDown, ArrowRight} from "baseui/icon";
 const itemProps = {
     height: 'auto',
     display: 'flex',
