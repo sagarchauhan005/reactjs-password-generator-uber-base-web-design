@@ -1,6 +1,6 @@
-## Shell Scripting
+## Resume
 
-A bunch of shell scripts that I wrote for few of my own projects.
+While I was trying my hand on Uber Design Library called Base Web Design, I ended up created my own resume design.
 
 # Author
 
